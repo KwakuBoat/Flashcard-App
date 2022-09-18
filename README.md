@@ -6,13 +6,15 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
-
+1. Create New Project in Android Studio
+2. Add a view for the front side of the flashcard to display the question
+3. Add a view for the back side of the flashcard to display the answer
+4. Build in logic to show the answer side when the card is tapped
+5. Push code to Github
 ### App Walk-though
 
 <img src="https://github.com/KwakuBoat/Flashcard-App/blob/main/ezgif.com-gif-maker.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [X] Cre[
