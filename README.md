@@ -10,7 +10,7 @@
 
 ### App Walk-though
 
-<img src="https://recordit.co/QM2Eha2Tem" width=200><br>
+<img src="https://github.com/KwakuBoat/Flashcard-App/blob/main/ezgif.com-gif-maker.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
